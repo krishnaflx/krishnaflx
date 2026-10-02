@@ -21,8 +21,7 @@ Building reliable and scalable Discord applications with clean architecture.
 
 - 🎓 Student
 - 🤖 Discord Bot Developer
-- 🎵 Creator of **Farah**
-- 🛡️ Building Moderation & AntiNuke Systems
+- 🎵 Creator of **Beyonder And Orbeez**
 - 🎧 Music System Developer
 - 🌍 India
 - 💬 English • Hindi
@@ -33,11 +32,11 @@ Building reliable and scalable Discord applications with clean architecture.
 
 > 🌍 Website: Soon...
 
-> 💬 Discord: @Krixnaflx
+> 💬 Discord: @Krishnaflx
 
-> ❤️ Support Server: https://discord.gg/BWRS8VHFYr
+> ❤️ Support Server: https://discord.gg/qcMW93wVS4
 
-> ⭐ GitHub: https://github.com/Krixnaflx
+> ⭐ GitHub: https://github.com/Krishnaflx
 
 ---
 
@@ -74,15 +73,15 @@ Building reliable and scalable Discord applications with clean architecture.
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Krixnaflx&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Krishnaflx&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Krixnaflx&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Krishnaflx&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krixnaflx&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaflx&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -92,32 +91,9 @@ Building reliable and scalable Discord applications with clean architecture.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krixnaflx&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnaflx&theme=tokyo-night"/>
 
 </p>
-
----
-
-
-# 🎯 Current Project
-
-## Farah
-
-✔ Music System
-
-✔ Moderation
-
-✔ AntiNuke
-
-✔ VoiceMaster
-
-✔ Dashboard
-
-✔ Giveaway System
-
-✔ Ticket System
-
-✔ AutoMod
 
 ---
 
